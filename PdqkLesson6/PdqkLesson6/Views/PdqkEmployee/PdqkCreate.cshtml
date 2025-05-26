@@ -1,0 +1,56 @@
+﻿@model PdqkLesson6.Models.PdqkEmployee
+@{
+    ViewData["Title"] = "Tạo Mới Học Viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="PdqkCreate" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="PdqkName" class="form-label"></label>
+        <input asp-for="PdqkName" class="form-control" />
+        <span asp-validation-for="PdqkName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="PdqkBirthDay" class="form-label"></label>
+        <input asp-for="PdqkBirthDay" type="date" class="form-control" />
+        <span asp-validation-for="PdqkBirthDay" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="PdqkEmail" class="form-label"></label>
+        <input asp-for="PdqkEmail" class="form-control" type="email" />
+        <span asp-validation-for="PdqkEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="PdqkPhone" class="form-label"></label>
+        <input asp-for="PdqkPhone" class="form-control" />
+        <span asp-validation-for="PdqkPhone" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="PdqkSalary" class="form-label"></label>
+        <input asp-for="PdqkSalary" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="PdqkSalary" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="PdqkStatus" class="form-label"></label>
+        <select asp-for="PdqkStatus" class="form-select">
+            <option value="1">Đang học</option>
+            <option value="0">Đã nghỉ</option>
+        </select>
+        <span asp-validation-for="PdqkStatus" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="PdqkIndex" class="btn btn-secondary">Hủy</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
