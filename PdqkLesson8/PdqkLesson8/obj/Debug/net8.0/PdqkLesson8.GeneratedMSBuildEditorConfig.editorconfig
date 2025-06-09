@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PdqkLesson8
+build_property.RootNamespace = PdqkLesson8
+build_property.ProjectDir = C:\Users\Laptop\source\repos\PdqkLesson8\PdqkLesson8\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Laptop\source\repos\PdqkLesson8\PdqkLesson8
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/PdqkAccont/PdqkCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRxa0FjY29udFxQZHFrQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/PdqkAccont/PdqkDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRxa0FjY29udFxQZHFrRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/PdqkAccont/PdqkDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRxa0FjY29udFxQZHFrRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/PdqkAccont/PdqkEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRxa0FjY29udFxQZHFrRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/PdqkAccont/PdqkIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRxa0FjY29udFxQZHFrSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/QKHome/PdqkIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUtIb21lXFBkcWtJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/QKHome/PdqkPrivacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUtIb21lXFBkcWtQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/source/repos/PdqkLesson8/PdqkLesson8/Views/Shared/_PdqkLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QZHFrTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-phsfhw24kj

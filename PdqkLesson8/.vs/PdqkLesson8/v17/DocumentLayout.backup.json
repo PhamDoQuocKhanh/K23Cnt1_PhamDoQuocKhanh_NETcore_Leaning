@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\pdqkaccont\\pdqkcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\pdqkaccont\\pdqkcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\controllers\\pdqkaccontcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\controllers\\pdqkaccontcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\pdqkaccont\\pdqkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\pdqkaccont\\pdqkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\controllers\\qkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\controllers\\qkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\models\\pdqkaccount02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\models\\pdqkaccount02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\pdqkaccont\\pdqkdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\pdqkaccont\\pdqkdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\shared\\_pdqklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\shared\\_pdqklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\pdqkaccont\\pdqkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\pdqkaccont\\pdqkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\pdqkaccont\\pdqkdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\pdqkaccont\\pdqkdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\qkhome\\pdqkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\qkhome\\pdqkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|c:\\users\\laptop\\source\\repos\\pdqklesson8\\pdqklesson8\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026661B-A780-4B3E-B251-0D0052277E2A}|PdqkLesson8\\PdqkLesson8.csproj|solutionrelative:pdqklesson8\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdqkCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkCreate.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\PdqkAccont\\PdqkCreate.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkCreate.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\PdqkAccont\\PdqkCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T04:08:36.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PdqkDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkDelete.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\PdqkAccont\\PdqkDelete.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkDelete.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\PdqkAccont\\PdqkDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:24:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdqkEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkEdit.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\PdqkAccont\\PdqkEdit.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkEdit.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\PdqkAccont\\PdqkEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:23:31.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PdqkDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkDetails.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\PdqkAccont\\PdqkDetails.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkDetails.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\PdqkAccont\\PdqkDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:22:19.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdqkIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkIndex.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\PdqkAccont\\PdqkIndex.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\PdqkAccont\\PdqkIndex.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\PdqkAccont\\PdqkIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:21:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PdqkLesson8\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:19:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdqkAccontController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Controllers\\PdqkAccontController.cs",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Controllers\\PdqkAccontController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Controllers\\PdqkAccontController.cs",
+              "RelativeToolTip": "PdqkLesson8\\Controllers\\PdqkAccontController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:16:11.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdqkAccount02.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Models\\PdqkAccount02.cs",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Models\\PdqkAccount02.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Models\\PdqkAccount02.cs",
+              "RelativeToolTip": "PdqkLesson8\\Models\\PdqkAccount02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:14:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PdqkIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\QKHome\\PdqkIndex.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\QKHome\\PdqkIndex.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\QKHome\\PdqkIndex.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\QKHome\\PdqkIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:26.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_PdqkLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\Shared\\_PdqkLayout.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\Shared\\_PdqkLayout.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\Shared\\_PdqkLayout.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\Shared\\_PdqkLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PdqkLesson8\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QKHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Controllers\\QKHomeController.cs",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Controllers\\QKHomeController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Controllers\\QKHomeController.cs",
+              "RelativeToolTip": "PdqkLesson8\\Controllers\\QKHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:10:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Program.cs",
+              "RelativeDocumentMoniker": "PdqkLesson8\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\PdqkLesson8\\PdqkLesson8\\Program.cs",
+              "RelativeToolTip": "PdqkLesson8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:09:34.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

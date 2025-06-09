@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdqkLesson8", "PdqkLesson8\PdqkLesson8.csproj", "{6026661B-A780-4B3E-B251-0D0052277E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6026661B-A780-4B3E-B251-0D0052277E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6026661B-A780-4B3E-B251-0D0052277E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6026661B-A780-4B3E-B251-0D0052277E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6026661B-A780-4B3E-B251-0D0052277E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {492648E1-7BC8-45DD-A951-E1C59D8C3559}
+	EndGlobalSection
+EndGlobal
